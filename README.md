@@ -12,7 +12,7 @@ I'm Ons Jannet a Blockchain and Full Stack Web Developer. I Spend most of time w
 - 🤔 I’m looking for help with machine learning.
 - 📫 How to reach me: onsjannet@gmail.com.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I love playing video games.
+- ⚡ Fun fact: i like mixing finance with computer science.
 
 #### Top Technologies
 
@@ -32,7 +32,7 @@ I'm Ons Jannet a Blockchain and Full Stack Web Developer. I Spend most of time w
 
 <br >
 
-I love learning new technologies and sharing knowledge via my medium account to help other developers.
+I'am a finance graduate that decided to switch to computer science, I love learning new technologies and sharing knowledge via my medium account to help other developers. passioned about trading / finance i love to work on financial projects.
 
 
 
