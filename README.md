@@ -40,4 +40,6 @@ I am a finance graduate that decided to switch to computer science, I love learn
 
 ![Ons's github stats](https://github-readme-stats.vercel.app/api?username=OnsJannet&count_private=true&theme=blue-green&hide=contribs,prs)
 
+![Ons's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OnsJannet&theme=blue-green)
+
 </details>
